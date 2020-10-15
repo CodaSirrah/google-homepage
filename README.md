@@ -1,0 +1,1 @@
+A HTML and CSS project, attempting to recreate the google homepage. Part of the Odin Projects Web Development 101 section.
